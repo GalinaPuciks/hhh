@@ -1,0 +1,22 @@
+.footer--color {
+    background-color: #0067a3;
+  }
+  
+  .footer {
+    font-size: 18px;
+    line-height: 21px;
+    padding: 17px 19px 17px 21px;
+    color: #fff;
+    height: 7vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .footer__tasks {
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+    justify-content: space-between;
+  }
+  
